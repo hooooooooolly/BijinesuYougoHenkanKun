@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <title>全部ビジネス用語で出力くん</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="./css/common.css">
+  <script type="text/javascript" src="./js/main.js"></script>
+</head>
+
+<body>
+  <!-- header -->
+  <header>
+    <h1>全部ビジネス用語で出力くん</h1>
+  </header>
+  <!-- header -->
+  <div class="container">
+    <div class="starter-template">
+      <!-- main -->
+ 　   <article>
+ 　     <div class="row">
+          <div class="h2">注意事項</div>
+          <div class="col">これは個人VTuber<a href="https://twitter.com/sana_natori">名取さなさん</a>のファンアートに当たる制作物であり、ご本人とは一切関係ありません。</div>
+ 　       <div class="col">制作にあたり<a href="https://twpf.jp/sana_natori">ガイドライン</a>を順守しております。</div>
+        </div>
+ 　   </article>
+      <hr>
+      <article>
+        <div class="row">
+          <div class="h2">変換例</div>
+          <div class="col">ども！　→　おせわになっております。</div>
+          <div class="col">マジでごめん　→　大変申し訳ありません。</div>
+          <div class="col">ごめん　→　申し訳ありません。</div>
+          <div class="col"><a href="./convlist.html">変換一覧表</a></div>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="h3">入力</div>
+          <textarea id="befGen"></textarea>
+        </div>
+        <div class="row">
+          <input type="button" class="genBtn" value="丁寧な変換" onclick="genTxt()">
+        </div>
+        <div class="row">
+          <h3>出力</h3>
+          <textarea id="aftGen" readonly></textarea>
+        </div>
+        <hr>
+        <div class="row">
+          <div class="col">元ネタはこちら（35：40～）</div>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/nKbtCjX-RSo?start=2140" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+        </div>
+      </article>
+      <!-- main -->
+    </div>
+  </div>
+  <!-- footer -->
+  <footer>
+    <a href="https://twitter.com/search?q=%23%E3%83%8C%E3%82%A9%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%88">#ヌォンタート</a>
+  </footer>
+  <!-- footer -->
+</body>
+
+</html>
