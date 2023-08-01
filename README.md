@@ -2,7 +2,7 @@
 https://hooooooooolly.github.io/ZenbuBijinesuYougoDeSyuturyokuKun/<br>
 <br>
 これは個人VTuber [名取さなさん](https://twitter.com/sana_natori) のファンアートに当たる制作物（ヌォンタート）であり、ご本人とは一切関係ありません。<br>
-また、制作にあたり [ガイドライン](https://twpf.jp/sana_natori) を順守しております。
+また、制作にあたり [ガイドライン](https://natorisana.com/guideline/) を順守しております。
 <br>
 - ども！　→　おせわになっております。<br>
 - マジでごめん　→　大変申し訳ありません。<br>
