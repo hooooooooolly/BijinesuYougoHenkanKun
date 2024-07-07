@@ -1,5 +1,5 @@
 # 全部ビジネス用語で出力くん
-https://hooooooooolly.github.io/ZenbuBijinesuYougoDeSyuturyokuKun/<br>
+https://hooooooooolly.github.io/zenbu-bijinesu-yougo-de-syuturyoku-kun/<br>
 <br>
 これは個人VTuber [名取さなさん](https://twitter.com/sana_natori) のファンアートに当たる制作物（ヌォンタート）であり、ご本人とは一切関係ありません。<br>
 また、制作にあたり [ガイドライン](https://natorisana.com/guideline/) を順守しております。
